@@ -1,23 +1,28 @@
 Pixel Pounce
 
-Description:
-I created Pixel Pounce, a 3D endless-runner game inspired by Slope, as part of my Year 10 Game Development elective. Built in Unity using C#, the game features physics-based movement, obstacle spawning, increasing difficulty, and a polished UI. Working on this project helped me understand core game mechanics, object pooling, and real-time rendering.
+A 3D endless-runner game inspired by Slope, developed in Year 10 as part of my Game Development elective.
 
-Project Status
+Built in Unity using C#, featuring physics-based movement, obstacle spawning, increasing difficulty, and a polished UI. This project helped me understand core game mechanics, object pooling, and real-time rendering.
 
-This repository contains the source code, assets, and project configuration files. Large build files and generated files have been excluded to keep the repository lightweight and easy to explore.
+Features
 
-How to Play / Run the Game
+Physics-based ball movement
+
+Procedurally spawning obstacles
+
+Increasing difficulty over time
+
+Polished UI and simple controls
+
+How to Play
 
 Download or clone the repository.
 
-If the game build is included, unzip the downloaded folder.
+If the game build is included, unzip the folder.
 
 Open the folder and double-click PixelPounce.exe to run the game.
 
-Note: The repository focuses on source code and assets. Build files may be provided separately if needed.
-
-Screenshots
+Note: The repository mainly contains source code and assets. Build files may be provided separately.
 
 <img width="1388" height="856" alt="image" src="https://github.com/user-attachments/assets/4af1e2b1-0051-4eed-a2c1-434b1b80cfde" />
 
